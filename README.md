@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Saurabh Kumar Rajput
+DevOps Engg@Zee - Tech & Innovation
+
+From: Uttar Pradesh
+
 <!--
 **skrgithubacc/skrgithubacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
