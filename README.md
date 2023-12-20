@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Saurabh Kumar Rajput
-DevOps Engg@Zee - Tech & Innovation
+
+- DevOps Engg@Zee - Tech & Innovation
 
 From: Uttar Pradesh
 
